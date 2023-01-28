@@ -1,0 +1,64 @@
+.title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 90px 100px;
+    margin: 0px;
+}
+
+.title__div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.title__container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+
+}
+
+.title__bio {
+    width: 751px;
+    height: 122px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 61px;
+    color: #464646;
+    flex: none;
+}
+
+.title__subsection {
+    width: 751px;
+    height: 52px;
+
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+
+    /* Preto/100% */
+
+    color: #464646;
+}
+
+.title__profile {
+    display: flex;
+    align-items: flex-end;
+    height: 400px;
+    width: 400px;
+    padding: 0px;
+}
+
+
+.title__network {
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    gap: 32px
+}
