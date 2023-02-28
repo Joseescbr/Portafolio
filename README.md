@@ -9,7 +9,7 @@ _Además, habría un botón "Contacto" que redirigiría al usuario a un formular
 
 ## Comenzando 🚀
 
-_Para ver como funciona el proyecto visita: [Juego_del_Ahorcado](https://joseescbr.github.io/Portafolio/)_
+_Para ver como funciona el proyecto visita: [Portafolio](https://joseescbr.github.io/Portafolio/)_
 
 ## Construido con 🛠️
 
