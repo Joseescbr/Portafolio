@@ -110,9 +110,11 @@
     width: 656px;
     height: 56px;
 
+    outline: none;
+
     background: #ffffff;
     border-radius: 4px;
-    border: 1px solid #FFFFFF;
+    border: none;
 
 }
 
@@ -129,9 +131,11 @@
     width: 657px;
     height: 40px;
 
+    outline: none;
+
     background: #ffffff;
     border-radius: 4px;
-    border: 1px solid #FFFFFF;
+    border: none;
 
 }
 
